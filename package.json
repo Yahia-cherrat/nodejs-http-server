@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon server2.js"
+    "start": "nodemon server1.js"
   },
   "author": "Yahia Cherrat",
   "license": "MIT",
